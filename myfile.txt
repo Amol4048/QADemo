@@ -1,1 +1,5 @@
-navigation bar added Amoolllll
+
+navigation bar added 
+Feature edited file
+navigation bar added 
+>>>>>>> branch
